@@ -1,8 +1,12 @@
 # Hinstagram
- 인스타그램 클론 with Express + Prisma + React and React-Native
+
+인스타그램 클론 with Express + Prisma + React and React-Native
 
 ## User Stories
 
+- [x] Create account
+- [x] Request Secret
+- [x] Confirm Secret (Log in)
 - [ ] Like / Unlike a photo
 - [ ] Comment on a photo
 - [ ] Search by user
@@ -11,8 +15,6 @@
 - [ ] Follow / Unfollow User
 - [ ] See the full photo
 - [ ] Edit my profile
-- [ ] Create account
-- [ ] Log in
 - [ ] Upload a photo
 - [ ] Edit the photo (Delete)
 - [ ] See the feed
