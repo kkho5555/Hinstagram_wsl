@@ -19,3 +19,7 @@
 - [x] Upload a post
 - [ ] Edit the post (Delete)
 - [ ] See the feed
+- [ ] See rooms
+- [ ] See room
+- [ ] Send private Message
+- [ ] Receive Message (Realtime)
