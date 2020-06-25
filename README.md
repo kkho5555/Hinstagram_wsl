@@ -16,6 +16,6 @@
 - [x] Edit my profile
 - [x] See user profile
 - [x] See the full post
-- [ ] Upload a post
+- [x] Upload a post
 - [ ] Edit the post (Delete)
 - [ ] See the feed
