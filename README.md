@@ -13,9 +13,9 @@
 - [x] Search by location
 - [x] Follow User
 - [x] Unfollow User
-- [ ] Edit my profile
-- [ ] See user profile
-- [ ] See the full photo
-- [ ] Upload a photo
-- [ ] Edit the photo (Delete)
+- [x] Edit my profile
+- [x] See user profile
+- [x] See the full post
+- [ ] Upload a post
+- [ ] Edit the post (Delete)
 - [ ] See the feed
