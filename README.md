@@ -17,9 +17,9 @@
 - [x] See user profile
 - [x] See the full post
 - [x] Upload a post
-- [x] Edit the post (Delete)
+- [x] Edit the post (
 - [x] See the feed
-- [ ] See rooms
+- [x] See rooms
 - [ ] See room
 - [ ] Send private Message
 - [ ] Receive Message (Realtime)
